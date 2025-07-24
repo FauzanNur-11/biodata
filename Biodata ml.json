@@ -1,0 +1,131 @@
+[
+{
+    "nama" : "Argus",
+    "role" : "Fighter",
+    "kelamin" : "Laki-Laki",
+    "skill yang dimiliki" : "3",
+    "counter" : [
+        "Ruby",
+        "Barats",
+        "Terizla",
+        "Esmeralda",
+        "Mathilda"
+    ],
+    "counter-terbaik" : [
+        "Minsitthar",
+        "Saber",
+        "Masha",
+        "Guinevere",
+        "Arlot"
+],
+    "meng-counter" : [
+        "Gord",
+        "Aurora"
+    ],
+   
+    "kecocokan tim" : [
+        "Angela",
+        "Rafaela",
+        "Khaleed",
+        "Silvana",
+        "Arlot",
+        "X-Borg",
+        "Hilda"
+    ]
+},
+{
+    "nama" : "Phoveus",
+    "role" : "Fighter",
+    "kelamin" : "Laki-Laki",
+    "skill yang dimiliki" : "3",
+    "counter" : [
+        "X-Borg",
+        "Alpha",
+        "Bane",
+        "Yve",
+        "Gord"
+    ],
+    "counter-terbaik" : [
+        "Wanwan",
+        "Ruby",
+        "Harith",
+        "Benedetta",
+        "Alucard"
+    ],
+    "meng-counter" :[
+        "Wanwan",
+        "Arlot",
+        "Chou"
+    ],
+    "kecocokan tim" : [
+        "Badang",
+        "Masha",
+        "Bane",
+        "X-Borg",
+        "Diggie"
+    ]
+},
+{
+    "nama" : "Brody",
+    "role" : "Maraksman",
+    "kelamin" :"Laki-Laki",
+    "skill yang dimiliki" : "3",
+    "counter" :[
+        "Barats",
+        "Sun",
+        "Diggie",
+        "Gloo",
+        "Masha"
+    ],
+    "counter-terbaik" :[
+        "Iritel",
+        "Natalia",
+        "Karina",
+        "Belerick",
+        "Fanny"
+    ],
+    "meng-counter" :[
+        "Aamon",
+        "Yin"
+    ],
+    "kecocokan tim" :[
+        "Popol & Kupa",
+        "Estes", 
+        "Floryn",
+        "Alice",
+        "Rafaela"
+    ]
+},
+{
+    "nama" : "Khaleed",
+    "role" : "Fighter",
+    "kelamin" :"Laki-Laki",
+    "skill yang dimiliki" : "3",
+    "counter" :[
+        "Phoveus",
+        "Fedrin",
+        "Barats",
+        "Minsitthar",
+        "Terizla"
+    ],
+    "counter-terbaik" :[
+        "Harley",
+        "Yve",
+        "Vale",
+        "Yin",
+        "Gloo"
+    ],
+    "meng-counter" :[
+        "Cyclops",
+        "Xavier"
+    ],
+    "kecocokan tim" :[
+        "Argus",
+        "Aulus",
+        "Hanzo",
+        "Freya",
+        "Sun"
+    ]
+    
+}
+]
