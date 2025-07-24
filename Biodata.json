@@ -1,0 +1,40 @@
+{
+    "nama" : "Fauzan Nur ramadhan",
+    "TempatLahir" : "Bandung",
+    "alamat" : {
+        "Jalan" : "Kp.Bojong",
+        "desa" : "Gajah Mekar",
+        "Kecamatan" : "Kutawaringin"
+    },
+    "hobi" : [
+        "Gaming",
+        "Badminton",
+        "Futsal",
+        "Sepak Bola",
+        "Layangan"
+    ],
+    "makanan_favorit" : [
+        "sate padang",
+        "kupat tahu",
+        "bubur",
+        "batagor",
+        "cilung",
+        "martabak telor",
+        "madog",
+        "cilok kukus"
+    ],
+    "tujuan main " : {
+        "teman" : [
+            "muncak gunung",
+            "main di pantai",
+            "madinah"
+        ],
+        "gf" : [
+            "keliling dunia"
+        ],
+        "mamah" : [
+            "keliling arab",
+            "keliling dunia"
+        ]
+    }
+}
